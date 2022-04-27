@@ -1,6 +1,6 @@
 # todo_hive
 
-A new Flutter project.
+Todo App using Flutter
 
 ## Getting Started
 
